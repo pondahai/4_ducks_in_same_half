@@ -9,3 +9,4 @@
 結果最後退化成錯誤算法  
 於是我把前面正確的算法 複製到後面正確運作但算法不對的程式  
 得到答案機率是 0.5  
+![image](https://github.com/user-attachments/assets/256ac3e2-e2d2-4544-82a1-807d250d5160)
